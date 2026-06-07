@@ -1,6 +1,6 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
-### NAME: RABIN R
-### REG NO: 212224230213
+### NAME: vivin mathew
+### REG NO: 212224040367
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
